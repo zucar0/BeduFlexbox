@@ -35,6 +35,7 @@
     display: flex;
     background-color: dodgerblue;
     margin-top: 20px;
+    flex-wrap: wrap-reverse;
 }
 
 .flex-container2 > div {
