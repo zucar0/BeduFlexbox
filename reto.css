@@ -19,21 +19,6 @@ body{
     line-height: 75px;
     font-size: 30px;
 }
-.container1{
-    display: flex;
-    background-color: red;
-    width: 25%;
-    height: auto;
-    flex-wrap: nowrap;
-}
-
-.container2{
-    display: flex;
-    background-color: red;
-    width: 25%;
-    height: auto;
-    flex-wrap: wrap;
-}
 
 .container3{
     display: flex;
